@@ -13,20 +13,20 @@
 
 
 
-#define WLAN_SSID       "Tare laine hu"             
+#define WLAN_SSID       "PUT YOUR WIFI NAME HERE"             
 // Your SSID
 
-#define WLAN_PASS       "dasnadas"        
+#define WLAN_PASS       "PUT YOUR WIFI PASS HERE"        
 // Your password
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "bd853b2956714a88bd472467a7e67779";
+char auth[] = "PUT YOUR AUTH TOKEN HERE";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Tare laine hu";
-char pass[] = "dasnadas";
+char ssid[] = "WIFI NAME";
+char pass[] = "WIFI PASS";
 
 
 
@@ -39,9 +39,9 @@ char pass[] = "dasnadas";
 #define AIO_SERVERPORT  1883                   
 // use 8883 for SSL
 
-#define AIO_USERNAME    "nirdosh_gandhi"            
+#define AIO_USERNAME    "Adafruit username"            
 // Replace it with your username
-#define AIO_KEY         "ba52d271293147b29267514b20e78b1d"   
+#define AIO_KEY         "AdaFruit Key"   
 // Replace with your Project Auth Key
 
 
