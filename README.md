@@ -5,3 +5,8 @@
 
 
 ![Ooops!! Image is not visible](https://github.com/ngandhi369/G-Home_Assistant/blob/master/Circuit.jpg)
+
+
+
+https://user-images.githubusercontent.com/49865067/148646378-4f08cfef-9e87-4e64-be60-63a9ae23ebac.mp4
+
